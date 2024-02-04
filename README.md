@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @Axnjr ( Yakshit Chhipa )
 - 👀 I’m interested in PROGRAMMING, DESIGNING, FULL-STACK WEB & APP DEVELOPMENT, and AI.
 - 🌱 I’m currently pursuing engineering in AIML 3rd year.
-- 💞️ I’m looking to collaborate on open source projects , small ideas , anything that can help in making my resume better .
+- 💞️ I’m looking to collaborate on open source projects, small ideas, or anything that can help improve my resume.
 - 📫 How to reach me
-    - ✨ Twitter: https://twitter.com/axnjrno1 ✨
-    - ✨ Gamil:yakshitchhipa@gmail.com ✨
-    - ✨ linkedIn:https://www.linkedin.com/in/yakshit/  ✨
+    - ✨ Twitter: https://twitter.com/YC59094 ✨
+    - ✨ Gamil: yakshitchhipa@gmail.com ✨
+    - ✨ Linkedin: https://www.linkedin.com/in/yakshit/  ✨
 
 - 🚀 PORTFOLIO --- ✨ https://axn.vercel.app/ ✨
 - 🔥 [Here's the template to create a portfolio like mine](https://github.com/Axnjr/Portfolio-template)

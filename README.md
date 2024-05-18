@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Axnjr ( Yakshit Chhipa )
 - 💥 Currently Working on: <br><br>
-      Ignition.dev - Ultimate platform for your real time applications <br>
+      Ignition.dev - Cheapest, fastest & secure real time infrastructure <br>
       Megh.dev - Cheapest compute on the internet <br>
       Reccur.ai - Github Copilot killer <br><br>
 - 👀 I’m interested in PROGRAMMING, DESIGNING, FULL-STACK WEB & APP DEVELOPMENT, and AI.

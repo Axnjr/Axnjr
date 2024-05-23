@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Axnjr, Fullstack Developer Of Your Dreams 😉😎
-- 💥 Currently Working on:
+- 💥 Currently Working on ( incomplete side projects. Comming Soon 😅 ):
     -  Ignition.dev - Cheapest, fastest & secure real time infrastructure
     -  Megh.dev - Cheapest compute on the internet
     -  Reccur.ai - Github Copilot killer

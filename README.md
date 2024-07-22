@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Axnjr, Fullstack Developer Of Your Dreams 😉😎
 - 💥 Currently Working on ( incomplete side projects. Comming Soon 😅 ):
-    -  Ignition.dev - Cheapest, fastest & secure real time infrastructure
-    -  Megh.dev - Cheapest compute on the internet
-    -  Reccur.ai - Github Copilot killer
-    -  URE - Universal recommendation engine 
+  - #### ignition.dev - Cheapest, fastest & secure real time infrastructure as a service.
+  - #### computeflow.dev - Cheaper & simpler "Render" alternative.
+  - #### Reccur.ai - Devin AI killer.
+  - #### NoCodeAI - Create neural networks like you make webflow websites.
 - 📫 How to reach me
     - ✨ Twitter: https://twitter.com/axnsscode ✨
     - ✨ Gamil: yakshitchhipa@gmail.com ✨

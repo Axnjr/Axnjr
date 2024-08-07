@@ -2,8 +2,7 @@
 - Currently Working on ( incomplete side projects. Comming Soon 😅 ):
   - 💥 ignition.dev - Cheapest, fastest & secure real time infrastructure as a service.
   - 💥 computeflow.dev - Cheaper & simpler "Render" alternative.
-  - 💥 Reccur.ai - Devin AI killer.
-  - 💥 NoCodeAI - Create neural networks like you make webflow websites.
+  - 💥 SNN (Simple Neural Networks) - Create neural networks like you make webflow websites.
 - 📫 How to reach me
     - ✨ Twitter: https://twitter.com/axnsscode ✨
     - ✨ Gamil: yakshitchhipa@gmail.com ✨

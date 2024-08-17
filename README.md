@@ -9,4 +9,5 @@
     - ✨ Linkedin: https://www.linkedin.com/in/yakshit/  ✨
     - 🚀 PORTFOLIO: https://axn.vercel.app/ ✨
 - 🔥 [Here's the template to create a portfolio like mine](https://github.com/Axnjr/Portfolio-template)
-- 🤙 Have a nice day or night ahead : ) 
+- 🤙 Have a nice day or night ahead : )
+- My projects indeed don't have many Stars & Forks 🤧 because I spent more time coding them than promoting them 😆

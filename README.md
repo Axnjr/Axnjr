@@ -1,5 +1,5 @@
 - # 👋 Hi, I’m @Axnjr, Fullstack Developer Of Your Dreams 😉😎
-- Currently Working on ( incomplete side projects. Comming Soon 😅 ):
+- Currently Working on:
   - 💥 ignition.dev - Cheapest, fastest & secure real time infrastructure as a service.
   - 💥 computeflow.dev - Cheaper & simpler "Render" alternative.
   - 💥 SNN (Simple Neural Networks) - Create neural networks like you make webflow websites.
